@@ -26,7 +26,7 @@ colorama==0.4.5
 commonmark==0.9.1
 comtypes==1.1.14
 contourpy==1.0.5
-cryptography==38.0.4
+cryptography==43.0.1
 cycler==0.11.0
 Cython==0.29.32
 dearpygui==1.9.1
