@@ -69,7 +69,7 @@ imageio==2.34.0
 importlib-metadata==5.1.0
 Interface==2.11.1
 ipykernel==6.15.2
-ipython==8.5.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 itsdangerous==2.1.2
 jedi==0.18.1
