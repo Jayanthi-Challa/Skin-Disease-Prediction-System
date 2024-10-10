@@ -55,7 +55,7 @@ glob2==0.7
 google-auth==2.14.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-gradio==4.37.1
+gradio==5.0.0
 greenlet==2.0.1
 grpcio==1.50.0
 gunicorn==19.9.0
