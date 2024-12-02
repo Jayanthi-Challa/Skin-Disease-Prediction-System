@@ -146,7 +146,7 @@ pyparsing==3.0.9
 pypiwin32==223
 pyrsistent==0.19.2
 python-dateutil==2.8.2
-python-multipart==0.0.5
+python-multipart==0.0.18
 pyttsx3==2.90
 pytz==2022.2.1
 pytz-deprecation-shim==0.1.0.post0
